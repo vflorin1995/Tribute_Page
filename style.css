@@ -1,0 +1,40 @@
+body{
+    font-family: sans-serif;
+    background-color: white;
+    padding: 20px 10px 40px 20px;
+}
+#nav-bar{
+    background-color: rgba(245, 222, 179, 0.877);
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 10px;
+    
+}
+#img-div{
+    padding: 100px 100px 40px 100px;
+}
+#img-caption, h5{
+    margin: 10px 30px 10px 30px;
+    font-size: small;
+    
+
+}
+#list{
+    max-width: 600px;
+    
+    position: relative;
+    left: 300px;
+}
+li{
+    margin: 10px;
+}
+#tribute-info{
+    position: relative;
+    left: 400px;
+   
+}
+#link{
+    position: relative;
+    left: 300px;
+}
+ 
